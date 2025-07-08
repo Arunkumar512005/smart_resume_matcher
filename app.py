@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/14Kx7rBDLCNdFm6Q2V3YsaBZZBBo52mXK
 """
 
-pip install streamlit sentence-transformers pdfplumber docx2txt scikit-learn nltk
+
 
 import streamlit as st
 import os
