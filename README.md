@@ -18,12 +18,6 @@ A powerful NLP-based web app that analyzes resumes and ranks them against a give
 
 ---
 
-## 🚀 Try it Live
-
-🌐 [Launch App on Streamlit Cloud](https://your-streamlit-url.streamlit.app)  
-_Replace with your actual deployed URL_
-
----
 
 ## 📦 Tech Stack
 
